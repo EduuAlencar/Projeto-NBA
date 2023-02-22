@@ -1,4 +1,5 @@
 # Projeto-NBA
 
-Projeto feito para treinar a pratica na linguagem Java
+Nesse projeto criei uma 3 opções para o usuario escolher!
+
 
